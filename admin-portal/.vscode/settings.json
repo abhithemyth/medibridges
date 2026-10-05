@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "NODE_EXTRA_CA_CERTS": "C:\\Users\\abhiram\\.medbridges-avast-ca.pem"
+  }
+}
